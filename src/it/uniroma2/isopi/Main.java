@@ -15,7 +15,7 @@ public class Main {
                 logger.log(Level.INFO, "{0} non è multiplo di 2", args[0]);
             }
         } else {
-            logger.log(Level.INFO, "Inserisci un numero come parametro");
+            logger.log(Level.INFO, "Inserisci un numero intero come parametro");
         }
     }
 
